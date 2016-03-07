@@ -224,8 +224,8 @@ function create_config( )
     "invite",
     "all",
     "leave_ban",
-    "admin"
-"plugins",
+    "admin",
+    "plugins",
     },
     sudo_users = {172871742},--Sudo users
     disabled_channels = {},
@@ -420,6 +420,8 @@ will return group logs
 
 !banlist
 will return group ban list
+!plugins
+plugin list
 
 **U can use both "/" and "!" 
 
